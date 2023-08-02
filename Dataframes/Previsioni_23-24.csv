@@ -1,337 +1,337 @@
-,Nome,Squadra,Media FantaVoto 23/24 (previsione),Quota,Rapporto FantaVoto/Quota,Ruolo,Cluster
-0,Carlos Augusto,Monza,6.552753,17.0,0.38545605715583353,D,Malus taker
-1,Dimarco,Inter,6.7567244,19.0,0.35561707145289373,D,Malus taker
-2,Posch,Bologna,6.509731,16.0,0.4068581759929657,D,Malus taker
-3,Di Lorenzo,Napoli,6.187527,18.0,0.3437515099843343,D,Malus taker
-4,Zappacosta,Atalanta,6.1913996,15.0,0.41275997161865235,D,Malus taker
-5,Danilo,Juventus,6.0834394,15.0,0.40556262334187826,D,Malus taker
-6,Smalling,Roma,6.1962194,15.0,0.4130812962849935,D,Malus taker
-7,Romagnoli,Lazio,6.3511086,13.0,0.48854681161733776,D,Malus taker
-8,Hernandez T.,Milan,6.458737,17.0,0.3799256997949937,D,Malus taker
-9,Ebuehi,Empoli,6.500087,11.0,0.5909169803966176,D,Malus taker
-10,Mazzocchi,Salernitana,6.631543,12.0,0.5526285966237386,D,Malus taker
-11,Rrahmani,Napoli,6.0900855,14.0,0.4350061076028006,D,Malus taker
-12,Zanoli,Sampdoria,5.9837832,4.0,1.4959458112716675,D,Malus taker
-13,Doig,Verona,6.5071635,11.0,0.5915603204206987,D,Malus taker
-14,Gosens,Inter,6.508034,9.0,0.723114914364285,D,Malus taker
-15,Buongiorno,Torino,6.2879,11.0,0.5716272700916637,D,Malus taker
-16,Bremer,Juventus,6.356573,13.0,0.4889671619121845,D,Malus taker
-17,Baschirotto,Lecce,6.223731,10.0,0.622373104095459,D,Malus taker
-18,Schuurs,Torino,6.1933985,14.0,0.4423856054033552,D,Malus taker
-19,Spinazzola,Roma,5.9426274,10.0,0.5942627429962158,D,Malus taker
-20,Mancini,Roma,5.9867043,11.0,0.5442458499561657,D,Malus taker
-21,Tomori,Milan,6.117828,13.0,0.47060214556180513,D,Malus taker
-22,Parisi,Empoli,6.021705,8.0,0.752713143825531,D,Malus taker
-23,Olivera,Napoli,6.175308,7.0,0.8821868896484375,D,Malus taker
-24,Hysaj,Lazio,5.966959,7.0,0.8524227142333984,D,Malus taker
-25,Biraghi,Fiorentina,6.2853875,10.0,0.6285387516021729,D,Malus taker
-26,Luperto,Empoli,6.043928,8.0,0.7554910182952881,D,Malus taker
-27,Toloi,Atalanta,5.9153185,9.0,0.6572576098971896,D,Malus taker
-28,Bastoni,Inter,6.1354585,13.0,0.47195834379929763,D,Malus taker
-29,Darmian,Inter,6.0849557,11.0,0.5531777902082964,D,Malus taker
-30,Augello,Sampdoria,5.8881774,5.0,1.1776354789733887,D,Malus taker
-31,Maehle,Atalanta,6.0264273,11.0,0.5478570244529031,D,Malus taker
-32,Casale,Lazio,6.0653663,10.0,0.6065366268157959,D,Malus taker
-33,Dumfries,Inter,6.2707224,12.0,0.522560199101766,D,Malus taker
-34,Scalvini,Atalanta,6.094326,9.0,0.6771473354763455,D,Malus taker
-35,Perez N.,Udinese,5.964741,9.0,0.6627490255567763,D,Malus taker
-36,Bijol,Udinese,6.1309714,9.0,0.681219047970242,D,Malus taker
-37,Mario Rui,Napoli,6.099617,10.0,0.6099617004394531,D,Malus taker
-38,Acerbi,Inter,6.0780764,11.0,0.5525523966008966,D,Malus taker
-39,Faraoni,Verona,6.015875,9.0,0.6684305402967665,D,Malus taker
-40,Milenkovic,Fiorentina,6.1088476,10.0,0.6108847618103027,D,Malus taker
-41,Rodriguez R.,Torino,5.9760704,8.0,0.7470088005065918,D,Malus taker
-42,Kyriakopoulos,Bologna,6.2120886,9.0,0.690232064988878,D,Malus taker
-43,Singo,Torino,6.1191015,8.0,0.7648876905441284,D,Malus taker
-44,Mari',Monza,6.0678306,9.0,0.6742033958435059,D,Malus taker
-45,Cambiaso,Bologna,5.9100466,5.0,1.1820093154907227,D,Malus taker
-46,Dodo',Fiorentina,6.0300975,8.0,0.7537621855735779,D,Malus taker
-47,Masina,Udinese,6.075775,6.0,1.0126291910807292,D,Malus taker
-48,Izzo,Monza,5.811094,8.0,0.7263867259025574,D,Malus taker
-49,Calabria,Milan,6.053871,9.0,0.672652350531684,D,Malus taker
-50,Pirola,Salernitana,5.837907,5.0,1.1675813674926758,D,Malus taker
-51,Caldirola,Monza,5.9295444,7.0,0.8470777784075055,D,Malus taker
-52,Juan Jesus,Napoli,6.118372,5.0,1.2236743927001954,D,Malus taker
-53,Bonucci,Juventus,6.296218,4.0,1.574054479598999,D,Malus taker
-54,De Vrij,Inter,5.9481435,6.0,0.9913572470347086,D,Malus taker
-55,Djimsiti,Atalanta,5.9403157,7.0,0.848616531917027,D,Malus taker
-56,Marusic,Lazio,5.898524,7.0,0.8426462582179478,D,Malus taker
-57,Djidji,Torino,5.800259,6.0,0.9667098522186279,D,Malus taker
-58,Ibanez,Roma,5.853353,7.0,0.836193289075579,D,Malus taker
-59,Kalulu,Milan,5.962469,7.0,0.8517813001360212,D,Malus taker
-60,Vojvoda,Torino,5.94246,6.0,0.9904100100199381,D,Malus taker
-61,Llorente D.,Roma,6.195345,6.0,1.032557487487793,D,Malus taker
-62,Martinez Quarta,Fiorentina,5.973388,6.0,0.9955646991729736,D,Malus taker
-63,Gendrey,Lecce,6.1368585,6.0,1.0228097438812256,D,Malus taker
-64,Hien,Verona,5.8247714,8.0,0.7280964255332947,D,Malus taker
-65,Patric,Lazio,6.00044,5.0,1.2000880241394043,D,Malus taker
-66,Gyomber,Salernitana,5.8272357,6.0,0.9712059497833252,D,Malus taker
-67,Rogerio,Sassuolo,5.724664,6.0,0.9541107018788656,D,Malus taker
-68,Demiral,Atalanta,6.0342255,8.0,0.7542781829833984,D,Malus taker
-69,Zortea,Sassuolo,5.859353,3.0,1.9531176884969075,D,Malus taker
-70,Vasquez,Cremonese,5.7293067,4.0,1.4323266744613647,D,Malus taker
-71,Bradaric,Salernitana,5.839373,7.0,0.8341961588178363,D,Malus taker
-72,Ehizibue,Udinese,5.8227468,5.0,1.1645493507385254,D,Malus taker
-73,Thiaw,Milan,5.89839,10.0,0.589838981628418,D,Malus taker
-74,De Silvestri,Bologna,6.2963014,2.0,3.148150682449341,D,Malus taker
-75,Ceccherini,Verona,5.778808,4.0,1.4447020292282104,D,Malus taker
-76,Ferrari G.,Sassuolo,5.71589,4.0,1.4289724826812744,D,Malus taker
-77,Lykogiannis,Bologna,5.7281194,5.0,1.1456238746643066,D,Malus taker
-78,Ranieri L.,Fiorentina,5.9613533,5.0,1.1922706604003905,D,Malus taker
-79,Toljan,Sassuolo,5.91735,6.0,0.9862249692281088,D,Malus taker
-80,Gallo,Lecce,6.0121098,5.0,1.2024219512939454,D,Malus taker
-81,Bellanova,Inter,6.113412,8.0,0.7641764879226685,D,Malus taker
-82,Soumaoro,Bologna,5.7866344,4.0,1.4466586112976074,D,Malus taker
-83,Ismajli,Empoli,5.7328987,5.0,1.1465797424316406,D,Malus taker
-84,Ballo-Toure',Milan,6.085057,2.0,3.0425283908843994,D,Malus taker
-85,Amione,Sampdoria,5.860551,3.0,1.953516960144043,D,Malus taker
-86,Gatti,Juventus,5.858405,6.0,0.9764008522033691,D,Malus taker
-87,Birindelli,Monza,5.841723,5.0,1.1683445930480958,D,Malus taker
-88,Ebosele,Udinese,5.8510594,4.0,1.462764859199524,D,Malus taker
-89,Sambia,Salernitana,6.024802,4.0,1.5062005519866943,D,Malus taker
-90,Lucumi',Bologna,6.1269917,7.0,0.8752845355442592,D,Malus taker
-91,Palomino,Atalanta,5.911753,7.0,0.8445361682346889,D,Malus taker
-92,Bonifazi,Bologna,6.0427165,3.0,2.0142388343811035,D,Malus taker
-93,Lazzari,Lazio,6.011066,5.0,1.202213191986084,D,Malus taker
-94,Gunter,Sampdoria,5.756454,4.0,1.4391134977340698,D,Malus taker
-95,Magnani,Verona,5.7537894,3.0,1.9179298082987468,D,Malus taker
-96,Dawidowicz,Verona,5.8416743,4.0,1.4604185819625854,D,Malus taker
-97,Celik,Roma,6.0309215,3.0,2.0103071530659995,D,Malus taker
-98,Stojanovic,Empoli,5.9512615,3.0,1.9837538401285808,D,Malus taker
-99,Daniliuc,Salernitana,5.7819967,3.0,1.9273322423299153,D,Malus taker
-100,Rugani,Juventus,6.273501,3.0,2.0911669731140137,D,Malus taker
-101,De Sciglio,Juventus,6.300008,3.0,2.1000026067097983,D,Malus taker
-102,Alex Sandro,Juventus,5.914238,6.0,0.9857063293457031,D,Malus taker
-103,Hateboer,Atalanta,5.9582324,7.0,0.8511760575430733,D,Malus taker
-104,Venuti,Fiorentina,5.821733,4.0,1.4554332494735718,D,Malus taker
-105,Kjaer,Milan,5.822479,4.0,1.4556196928024292,D,Malus taker
-106,Pellegrini Lu.,Lazio,6.0415635,4.0,1.5103908777236938,D,Malus taker
-107,Walukiewicz,Empoli,6.1357045,3.0,2.0452348391215005,D,Malus taker
-108,Okoli,Atalanta,5.848912,2.0,2.9244558811187744,D,Malus taker
-109,Lovato,Salernitana,5.898117,4.0,1.4745292663574219,D,Malus taker
-110,Erlic,Sassuolo,6.0077634,5.0,1.201552677154541,D,Malus taker
-111,Coppola D.,Verona,5.9031444,2.0,2.9515721797943115,D,Malus taker
-112,Cacace,Empoli,6.0116463,3.0,2.003882090250651,D,Malus taker
-113,Abankwah,Udinese,6.102532,1.0,6.102531909942627,D,Malus taker
-114,Guessand A.,Udinese,6.102532,1.0,6.102531909942627,D,Malus taker
-115,Cabal,Verona,5.8606033,3.0,1.953534444173177,D,Malus taker
-116,Dermaku,Lecce,6.1500316,1.0,6.150031566619873,D,Malus taker
-117,Tonelli,Empoli,6.0474677,1.0,6.0474677085876465,D,Malus taker
-118,Pezzella Giu.,Lecce,5.929114,5.0,1.1858227729797364,D,Malus taker
-119,Fazio,Salernitana,6.1894217,2.0,3.0947108268737793,D,Malus taker
-120,Karsdorp,Roma,6.2627745,2.0,3.131387233734131,D,Malus taker
-121,Marchizza,Sassuolo,6.0260005,5.0,1.2052000999450683,D,Malus taker
-122,Ruggeri,Atalanta,5.8053226,3.0,1.9351075490315754,D,Malus taker
-123,Antov,Monza,5.819797,1.0,5.819797039031982,D,Malus taker
-124,Pongracic,Lecce,6.0194345,5.0,1.2038868904113769,D,Malus taker
-125,Soppy,Atalanta,6.0549345,2.0,3.0274672508239746,D,Malus taker
-126,Ruan,Sassuolo,5.5671277,5.0,1.1134255409240723,D,Malus taker
-127,Ostigard,Napoli,6.0866303,4.0,1.5216575860977173,D,Malus taker
-128,Gila,Lazio,6.214409,1.0,6.214408874511719,D,Malus taker
-129,Bronn,Salernitana,5.7345734,2.0,2.8672866821289062,D,Malus taker
-130,Romagnoli S.,Lecce,6.106967,5.0,1.2213933944702149,D,Malus taker
-131,Florenzi,Milan,6.10038,3.0,2.0334599812825522,D,Malus taker
-132,Kumbulla,Roma,6.036051,3.0,2.012016932169596,D,Malus taker
-133,Adopo,Torino,5.910279,2.0,2.955139398574829,D,Malus taker
-134,Amey,Bologna,6.19519,1.0,6.195189952850342,D,Malus taker
-135,Zima,Torino,6.23713,3.0,2.079043388366699,D,Malus taker
-136,De Winter,Empoli,5.9073954,3.0,1.9691317876180012,D,Malus taker
-137,Ebosse,Udinese,5.8118167,3.0,1.9372722307840984,D,Malus taker
-138,Sosa,Bologna,5.75626,2.0,2.8781299591064453,D,Malus taker
-139,Guarino,Empoli,6.19519,1.0,6.195189952850342,D,Malus taker
-140,Carboni F.,Monza,6.2064204,1.0,6.206420421600342,D,Malus taker
-141,Kvaratskhelia,Napoli,6.9149218,31.0,0.2230619922760994,C,Bonus taker
-142,Zaccagni,Lazio,6.744917,28.0,0.24088988985334123,C,Bonus taker
-143,Felipe Anderson,Lazio,6.6278014,23.0,0.2881652790567149,C,Malus taker
-144,El Shaarawy,Roma,6.685357,16.0,0.4178348183631897,C,Malus taker
-145,Rabiot,Juventus,6.6715126,22.0,0.30325057289817114,C,Malus taker
-146,Luis Alberto,Lazio,7.070621,21.0,0.33669623874482657,C,Bonus taker
-147,Orsolini,Bologna,6.5419683,21.0,0.31152230217343285,C,Bonus taker
-148,Strefezza,Lecce,6.514543,18.0,0.3619190586937798,C,Bonus taker
-149,Koopmeiners,Atalanta,6.855667,24.0,0.2856527964274089,C,Bonus taker
-150,Barella,Inter,6.9378467,20.0,0.34689233303070066,C,Malus taker
-151,Zielinski,Napoli,6.493857,20.0,0.32469284534454346,C,Malus taker
-152,Candreva,Salernitana,6.8741274,15.0,0.45827515920003253,C,Malus taker
-153,Frattesi,Sassuolo,6.7984543,17.0,0.39990907556870403,C,Malus taker
-154,Miranchuk,Torino,6.6954403,10.0,0.6695440292358399,C,Malus taker
-155,Ferguson,Bologna,6.6924343,17.0,0.3936726065242992,C,Malus taker
-156,Ciurria,Monza,6.574407,14.0,0.4696005071912493,C,Malus taker
-157,Lazovic,Verona,6.804721,15.0,0.45364805857340496,C,Malus taker
-158,Calhanoglu,Inter,6.759577,16.0,0.4224735498428345,C,Malus taker
-159,Elmas,Napoli,6.812162,15.0,0.4541441281636556,C,Malus taker
-160,Lovric,Udinese,6.5120144,15.0,0.43413429260253905,C,Malus taker
-161,Zambo Anguissa,Napoli,6.304659,14.0,0.45033277784075054,C,Malus taker
-162,Samardzic,Udinese,6.6318307,16.0,0.41448941826820374,C,Malus taker
-163,Baldanzi,Empoli,6.3987117,15.0,0.4265807787577311,C,Malus taker
-164,Bonaventura,Fiorentina,6.437383,14.0,0.45981308392116,C,Malus taker
-165,Pessina,Monza,6.517736,14.0,0.46555256843566895,C,Bonus taker
-166,Kostic,Juventus,6.3236117,15.0,0.42157411575317383,C,Malus taker
-167,Verdi,Verona,6.208273,8.0,0.7760341167449951,C,Malus taker
-168,Chiesa,Juventus,6.5412,17.0,0.3847764800576603,C,Malus taker
-169,Lobotka,Napoli,6.0345855,13.0,0.46419888276320237,C,Malus taker
-170,Fagioli,Juventus,6.3110957,13.0,0.48546890112069935,C,Malus taker
-171,Messias,Milan,6.38359,9.0,0.7092878023783366,C,Malus taker
-172,Colpani,Monza,6.5625544,9.0,0.7291727066040039,C,Malus taker
-173,Pellegrini Lo.,Roma,6.739251,16.0,0.4212031960487366,C,Bonus taker
-174,Politano,Napoli,6.640651,14.0,0.4743322304316929,C,Bonus taker
-175,Pasalic,Atalanta,6.513618,14.0,0.46525842802865164,C,Malus taker
-176,Matic,Roma,6.36363,9.0,0.7070699797736274,C,Malus taker
-177,Mkhitaryan,Inter,6.5315223,13.0,0.5024247903090256,C,Malus taker
-178,Bennacer,Milan,6.2839847,10.0,0.6283984661102295,C,Malus taker
-179,Ikone',Fiorentina,6.4665413,13.0,0.4974262530987079,C,Malus taker
-180,Dominguez,Bologna,6.364668,12.0,0.5303889910380045,C,Malus taker
-181,Radonjic,Torino,6.6541862,11.0,0.6049260226162997,C,Malus taker
-182,Moro N.,Bologna,6.4391346,6.0,1.07318909962972,C,Malus taker
-183,De Roon,Atalanta,6.384726,11.0,0.5804296406832609,C,Malus taker
-184,Saponara,Fiorentina,6.036211,11.0,0.5487464557994496,C,Malus taker
-185,Pogba,Juventus,6.4309473,12.0,0.535912275314331,C,Malus taker
-186,Ilic,Torino,6.3610497,12.0,0.5300874710083008,C,Malus taker
-187,Ricci S.,Torino,6.440822,13.0,0.49544785572932315,C,Malus taker
-188,Coulibaly L.,Salernitana,6.2287817,8.0,0.7785977125167847,C,Malus taker
-189,Matheus Henrique,Sassuolo,6.4332695,9.0,0.7148077223036025,C,Malus taker
-190,Mandragora,Fiorentina,6.2488203,9.0,0.6943133672078451,C,Malus taker
-191,Sensi,Monza,6.307834,7.0,0.9011191640581403,C,Malus taker
-192,Barak,Fiorentina,6.3099236,12.0,0.5258269707361857,C,Malus taker
-193,Locatelli,Juventus,6.2754126,12.0,0.5229510466257731,C,Malus taker
-194,Kastanos,Salernitana,5.8978133,7.0,0.8425447600228446,C,Malus taker
-195,Castrovilli,Fiorentina,6.2825108,10.0,0.6282510757446289,C,Malus taker
-196,Rovella,Monza,5.9799476,5.0,1.1959895133972167,C,Malus taker
-197,Saelemaekers,Milan,6.2651043,5.0,1.2530208587646485,C,Malus taker
-198,Marin,Empoli,6.2015347,8.0,0.7751918435096741,C,Malus taker
-199,Zalewski,Roma,6.192562,8.0,0.7740702629089355,C,Malus taker
-200,Bajrami,Sassuolo,6.45358,13.0,0.4964292232806866,C,Malus taker
-201,Hjulmand,Lecce,6.038356,10.0,0.6038355827331543,C,Malus taker
-202,De Ketelaere,Milan,6.2968817,7.0,0.8995545251028878,C,Malus taker
-203,Iling Junior,Juventus,6.363306,4.0,1.5908265113830566,C,Malus taker
-204,Vecino,Lazio,6.0272975,6.0,1.0045495827992756,C,Malus taker
-205,Maldini,Spezia,6.304316,5.0,1.2608632087707519,C,Malus taker
-206,Bove,Roma,6.060636,5.0,1.2121272087097168,C,Malus taker
-207,Thorstvedt,Sassuolo,6.1556015,6.0,1.0259335835774739,C,Malus taker
-208,Cristante,Roma,6.004934,9.0,0.6672148704528809,C,Malus taker
-209,Walace,Udinese,5.874234,7.0,0.8391763142177037,C,Malus taker
-210,Schouten,Bologna,6.0790687,8.0,0.7598835825920105,C,Malus taker
-211,Akpa Akpro,Empoli,5.864079,3.0,1.9546929995218914,C,Malus taker
-212,Harroui,Sassuolo,6.13201,4.0,1.533002495765686,C,Malus taker
-213,Blin,Lecce,6.0191045,6.0,1.0031840801239014,C,Malus taker
-214,Cataldi,Lazio,6.031911,7.0,0.8617015566144671,C,Malus taker
-215,Duncan,Fiorentina,6.026347,5.0,1.2052694320678712,C,Malus taker
-216,Cuadrado,Juventus,6.192893,9.0,0.688099225362142,C,Malus taker
-217,Linetty,Torino,6.066554,5.0,1.2133108139038087,C,Malus taker
-218,Sottil,Fiorentina,6.2659326,8.0,0.7832415699958801,C,Malus taker
-219,Gyasi,Spezia,6.0071387,8.0,0.7508923411369324,C,Malus taker
-220,Miretti,Juventus,6.0971503,5.0,1.2194300651550294,C,Malus taker
-221,Gonzalez J.,Lecce,5.8252325,7.0,0.8321760722569057,C,Malus taker
-222,Grassi,Empoli,6.0615287,5.0,1.212305736541748,C,Malus taker
-223,Krunic,Milan,5.9610376,6.0,0.9935062726338705,C,Malus taker
-224,Haas,Empoli,6.11286,4.0,1.5282150506973267,C,Malus taker
-225,Duda,Verona,6.0749574,6.0,1.0124928951263428,C,Malus taker
-226,Gaetano,Napoli,6.317944,3.0,2.1059813499450684,C,Malus taker
-227,Lopez M.,Sassuolo,5.9873333,8.0,0.7484166622161865,C,Malus taker
-228,Tameze,Verona,5.992523,8.0,0.7490653991699219,C,Malus taker
-229,Pobega,Milan,6.1821327,5.0,1.236426544189453,C,Malus taker
-230,Aebischer,Bologna,5.873232,5.0,1.1746463775634766,C,Malus taker
-231,Bohinen,Salernitana,6.234092,4.0,1.5585230588912964,C,Malus taker
-232,Terracciano F.,Verona,6.018829,3.0,2.006276289621989,C,Malus taker
-233,Marcos Antonio,Lazio,6.2119226,5.0,1.2423845291137696,C,Malus taker
-234,Ranocchia F.,Monza,6.238672,5.0,1.2477343559265137,C,Malus taker
-235,Benassi,Cremonese,6.1122093,1.0,6.112209320068359,C,Malus taker
-236,Machin,Monza,5.888117,5.0,1.1776233673095704,C,Malus taker
-237,Vignato,Empoli,6.2580237,2.0,3.129011869430542,C,Malus taker
-238,Amrabat,Fiorentina,5.8777885,7.0,0.839684077671596,C,Malus taker
-239,Maleh,Lecce,5.9561715,5.0,1.191234302520752,C,Malus taker
-240,Basic,Lazio,6.032959,4.0,1.50823974609375,C,Malus taker
-241,Volpato,Roma,6.3614397,3.0,2.1204799016316733,C,Malus taker
-242,Vignato S.,Monza,6.2945104,1.0,6.294510364532471,C,Malus taker
-243,Fazzini,Empoli,5.914812,6.0,0.9858020146687826,C,Malus taker
-244,Nicolussi Caviglia,Salernitana,5.9749312,2.0,2.9874656200408936,C,Malus taker
-245,Henderson L.,Empoli,6.057577,3.0,2.019192377726237,C,Malus taker
-246,Ceide,Sassuolo,6.173308,1.0,6.1733078956604,C,Malus taker
-247,Obiang,Sassuolo,5.9310923,3.0,1.9770307540893555,C,Malus taker
-248,Pyyhtia,Bologna,6.328481,1.0,6.328481197357178,C,Malus taker
-249,Sulemana I.,Verona,5.9516554,3.0,1.983885129292806,C,Malus taker
-250,Gagliardini,Inter,6.0218196,6.0,1.0036365985870361,C,Malus taker
-251,Valoti,Monza,6.27501,2.0,3.137505054473877,C,Malus taker
-252,Maggiore,Salernitana,6.1791973,3.0,2.059732437133789,C,Malus taker
-253,Asllani,Inter,6.1342216,4.0,1.5335553884506226,C,Malus taker
-254,Sabiri,Sampdoria,6.0436,9.0,0.6715111202663846,C,Bonus taker
-255,Zerbin,Napoli,6.003875,1.0,6.003874778747559,C,Malus taker
-256,Ilkhan,Sampdoria,6.099417,1.0,6.099417209625244,C,Malus taker
-257,Demme,Napoli,6.182472,1.0,6.182472229003906,C,Malus taker
-258,Urbanski,Bologna,6.205243,1.0,6.205243110656738,C,Malus taker
-259,Romero L.,Lazio,6.261408,4.0,1.565351963043213,C,Malus taker
-260,Pafundi,Udinese,6.233754,1.0,6.2337541580200195,C,Malus taker
-261,Helgason,Lecce,6.1536317,1.0,6.153631687164307,C,Malus taker
-262,Adli,Milan,6.1619534,1.0,6.161953449249268,C,Malus taker
-263,Hrustic,Verona,6.1647563,3.0,2.0549187660217285,C,Malus taker
-264,Degli Innocenti,Empoli,6.205243,1.0,6.205243110656738,C,Malus taker
-265,Carboni V.,Inter,6.205243,2.0,3.102621555328369,C,Malus taker
-266,Faticanti,Roma,6.205243,1.0,6.205243110656738,C,Malus taker
-267,Gineitis,Torino,6.0073075,1.0,6.007307529449463,C,Malus taker
-268,Osimhen,Napoli,7.6829596,43.0,0.17867347805999045,A,Bonus taker
-269,Martinez L.,Inter,8.029483,37.0,0.21701304977004593,A,Bonus taker
-270,Dybala,Roma,7.675918,30.0,0.2558639367421468,A,Bonus taker
-271,Berardi,Sassuolo,7.6961517,30.0,0.25653839111328125,A,Bonus taker
-272,Rafael Leao,Milan,7.563885,31.0,0.24399629715950258,A,Bonus taker
-273,Lookman,Atalanta,7.832143,26.0,0.30123626268827,A,Bonus taker
-274,Dia,Salernitana,7.63554,26.0,0.29367461571326625,A,Bonus taker
-275,Sanabria,Torino,7.294145,24.0,0.30392271280288696,A,Bonus taker
-276,Immobile,Lazio,8.447115,32.0,0.26397234201431274,A,Bonus taker
-277,Giroud,Milan,7.5724587,24.0,0.315519114335378,A,Bonus taker
-278,Arnautovic,Bologna,6.6552615,23.0,0.2893591963726541,A,Bonus taker
-279,Vlahovic,Juventus,7.2381597,28.0,0.2585057020187378,A,Bonus taker
-280,Cabral,Fiorentina,6.78758,21.0,0.3232180958702451,A,Bonus taker
-281,Lauriente',Sassuolo,7.065639,21.0,0.3364590009053548,A,Bonus taker
-282,Beto,Udinese,7.0049005,21.0,0.3335666883559454,A,Malus taker
-283,Abraham,Roma,6.9968333,15.0,0.4664555549621582,A,Malus taker
-284,Cambiaghi,Empoli,6.611667,12.0,0.5509722630182902,A,Malus taker
-285,Milik,Juventus,6.7190356,18.0,0.37327975696987575,A,Bonus taker
-286,Gonzalez N.,Fiorentina,6.2518196,15.0,0.4167879740397135,A,Bonus taker
-287,Simeone,Napoli,6.512946,13.0,0.5009958560650165,A,Malus taker
-288,Pedro,Lazio,6.304865,12.0,0.5254054069519043,A,Malus taker
-289,Zapata D.,Atalanta,6.612648,19.0,0.34803410580283717,A,Malus taker
-290,Ceesay,Lecce,6.8692274,13.0,0.5284021084125226,A,Malus taker
-291,Mota,Monza,6.5584664,11.0,0.5962242213162509,A,Malus taker
-292,Petagna,Monza,6.593828,13.0,0.5072175539456881,A,Malus taker
-293,Caprari,Monza,6.8028817,14.0,0.4859201226915632,A,Malus taker
-294,Karamoh,Torino,6.2165303,10.0,0.6216530323028564,A,Malus taker
-295,Kouame',Fiorentina,6.4866347,9.0,0.7207371923658583,A,Malus taker
-296,Deulofeu,Udinese,6.417555,14.0,0.4583967753819057,A,Malus taker
-297,Barrow,Bologna,6.468674,14.0,0.46204815592084614,A,Malus taker
-298,Lozano,Napoli,6.5424523,12.0,0.5452043612798055,A,Malus taker
-299,Muriel,Atalanta,6.5664396,14.0,0.46903140204293386,A,Malus taker
-300,Thauvin,Udinese,6.390468,11.0,0.5809516473249956,A,Malus taker
-301,Caputo,Empoli,6.8882275,15.0,0.4592151641845703,A,Bonus taker
-302,Jovic,Fiorentina,6.7429786,14.0,0.4816413266318185,A,Bonus taker
-303,Zirkzee,Bologna,6.4000373,11.0,0.5818215716968883,A,Malus taker
-304,Correa,Inter,6.563899,11.0,0.5967180945656516,A,Malus taker
-305,Kean,Juventus,6.347683,11.0,0.5770620866255327,A,Malus taker
-306,Brekalo,Fiorentina,6.465949,11.0,0.5878135507757013,A,Malus taker
-307,Colombo,Lecce,6.6408515,10.0,0.6640851497650146,A,Bonus taker
-308,Banda,Lecce,6.2400374,8.0,0.7800046801567078,A,Malus taker
-309,Di Francesco F.,Lecce,6.1743035,8.0,0.7717879414558411,A,Malus taker
-310,Raspadori,Napoli,6.3491416,10.0,0.6349141597747803,A,Malus taker
-311,Bonazzoli,Salernitana,6.6414075,7.0,0.948772498539516,A,Malus taker
-312,Pinamonti,Sassuolo,6.6795945,13.0,0.5138149628272424,A,Malus taker
-313,Success,Udinese,6.188251,7.0,0.8840358597891671,A,Malus taker
-314,Solbakken,Roma,6.3934937,8.0,0.7991867065429688,A,Malus taker
-315,Piccoli,Empoli,6.6274104,7.0,0.9467729159763881,A,Malus taker
-316,Djuric,Verona,6.289654,9.0,0.6988504197862413,A,Malus taker
-317,Botheim,Salernitana,6.278344,8.0,0.7847930192947388,A,Malus taker
-318,Defrel,Sassuolo,6.215041,9.0,0.6905601289537218,A,Malus taker
-319,Origi,Milan,6.46759,3.0,2.1558632850646973,A,Malus taker
-320,Soule',Juventus,6.6154184,4.0,1.6538546085357666,A,Malus taker
-321,Ngonge,Verona,6.432709,12.0,0.5360591014226278,A,Malus taker
-322,Belotti,Roma,6.2860746,9.0,0.6984527375962999,A,Malus taker
-323,Pellegri,Torino,6.4223995,8.0,0.8027999401092529,A,Malus taker
-324,Shomurodov,Spezia,6.287025,13.0,0.48361730575561523,A,Malus taker
-325,Kallon,Verona,6.425889,2.0,3.212944507598877,A,Malus taker
-326,Alvarez A.,Sassuolo,6.697274,5.0,1.3394548416137695,A,Malus taker
-327,Lasagna,Verona,6.2314415,5.0,1.2462882995605469,A,Malus taker
-328,Henry,Verona,6.1336446,12.0,0.511137048403422,A,Malus taker
-329,Seck,Torino,6.440186,3.0,2.1467286745707193,A,Malus taker
-330,Valencia D.,Salernitana,6.249047,1.0,6.249046802520752,A,Malus taker
-331,Braaf,Verona,6.143935,1.0,6.143935203552246,A,Malus taker
-332,Raimondo,Bologna,6.2940793,1.0,6.294079303741455,A,Malus taker
-333,Cancellieri,Lazio,6.1772065,5.0,1.235441303253174,A,Malus taker
-334,Voelkerling Persson,Lecce,6.4406753,1.0,6.440675258636475,A,Malus taker
-335,Vivaldo,Udinese,6.373566,1.0,6.373566150665283,A,Malus taker
+Nome;Squadra;Media FantaVoto 23/24 (previsione);Quota;Rapporto FantaVoto/Quota;Ruolo;Cluster
+Carlos Augusto;Monza;6.552753;17;0.385456057;D;Malus taker
+Dimarco;Inter;6.7567244;19;0.355617071;D;Malus taker
+Posch;Bologna;6.509731;16;0.406858176;D;Malus taker
+Di Lorenzo;Napoli;6.187527;18;0.34375151;D;Malus taker
+Zappacosta;Atalanta;6.1913996;15;0.412759972;D;Malus taker
+Danilo;Juventus;6.0834394;15;0.405562623;D;Malus taker
+Smalling;Roma;6.1962194;15;0.413081296;D;Malus taker
+Romagnoli;Lazio;6.3511086;13;0.488546812;D;Malus taker
+Hernandez T.;Milan;6.458737;17;0.3799257;D;Malus taker
+Ebuehi;Empoli;6.500087;11;0.59091698;D;Malus taker
+Mazzocchi;Salernitana;6.631543;12;0.552628597;D;Malus taker
+Rrahmani;Napoli;6.0900855;14;0.435006108;D;Malus taker
+Zanoli;Sampdoria;5.9837832;4;1.495945811;D;Malus taker
+Doig;Verona;6.5071635;11;0.59156032;D;Malus taker
+Gosens;Inter;6.508034;9;0.723114914;D;Malus taker
+Buongiorno;Torino;6.2879;11;0.57162727;D;Malus taker
+Bremer;Juventus;6.356573;13;0.488967162;D;Malus taker
+Baschirotto;Lecce;6.223731;10;0.622373104;D;Malus taker
+Schuurs;Torino;6.1933985;14;0.442385605;D;Malus taker
+Spinazzola;Roma;5.9426274;10;0.594262743;D;Malus taker
+Mancini;Roma;5.9867043;11;0.54424585;D;Malus taker
+Tomori;Milan;6.117828;13;0.470602146;D;Malus taker
+Parisi;Empoli;6.021705;8;0.752713144;D;Malus taker
+Olivera;Napoli;6.175308;7;0.88218689;D;Malus taker
+Hysaj;Lazio;5.966959;7;0.852422714;D;Malus taker
+Biraghi;Fiorentina;6.2853875;10;0.628538752;D;Malus taker
+Luperto;Empoli;6.043928;8;0.755491018;D;Malus taker
+Toloi;Atalanta;5.9153185;9;0.65725761;D;Malus taker
+Bastoni;Inter;6.1354585;13;0.471958344;D;Malus taker
+Darmian;Inter;6.0849557;11;0.55317779;D;Malus taker
+Augello;Sampdoria;5.8881774;5;1.177635479;D;Malus taker
+Maehle;Atalanta;6.0264273;11;0.547857024;D;Malus taker
+Casale;Lazio;6.0653663;10;0.606536627;D;Malus taker
+Dumfries;Inter;6.2707224;12;0.522560199;D;Malus taker
+Scalvini;Atalanta;6.094326;9;0.677147335;D;Malus taker
+Perez N.;Udinese;5.964741;9;0.662749026;D;Malus taker
+Bijol;Udinese;6.1309714;9;0.681219048;D;Malus taker
+Mario Rui;Napoli;6.099617;10;0.6099617;D;Malus taker
+Acerbi;Inter;6.0780764;11;0.552552397;D;Malus taker
+Faraoni;Verona;6.015875;9;0.66843054;D;Malus taker
+Milenkovic;Fiorentina;6.1088476;10;0.610884762;D;Malus taker
+Rodriguez R.;Torino;5.9760704;8;0.747008801;D;Malus taker
+Kyriakopoulos;Bologna;6.2120886;9;0.690232065;D;Malus taker
+Singo;Torino;6.1191015;8;0.764887691;D;Malus taker
+Mari';Monza;6.0678306;9;0.674203396;D;Malus taker
+Cambiaso;Bologna;5.9100466;5;1.182009315;D;Malus taker
+Dodo';Fiorentina;6.0300975;8;0.753762186;D;Malus taker
+Masina;Udinese;6.075775;6;1.012629191;D;Malus taker
+Izzo;Monza;5.811094;8;0.726386726;D;Malus taker
+Calabria;Milan;6.053871;9;0.672652351;D;Malus taker
+Pirola;Salernitana;5.837907;5;1.167581367;D;Malus taker
+Caldirola;Monza;5.9295444;7;0.847077778;D;Malus taker
+Juan Jesus;Napoli;6.118372;5;1.223674393;D;Malus taker
+Bonucci;Juventus;6.296218;4;1.57405448;D;Malus taker
+De Vrij;Inter;5.9481435;6;0.991357247;D;Malus taker
+Djimsiti;Atalanta;5.9403157;7;0.848616532;D;Malus taker
+Marusic;Lazio;5.898524;7;0.842646258;D;Malus taker
+Djidji;Torino;5.800259;6;0.966709852;D;Malus taker
+Ibanez;Roma;5.853353;7;0.836193289;D;Malus taker
+Kalulu;Milan;5.962469;7;0.8517813;D;Malus taker
+Vojvoda;Torino;5.94246;6;0.99041001;D;Malus taker
+Llorente D.;Roma;6.195345;6;1.032557487;D;Malus taker
+Martinez Quarta;Fiorentina;5.973388;6;0.995564699;D;Malus taker
+Gendrey;Lecce;6.1368585;6;1.022809744;D;Malus taker
+Hien;Verona;5.8247714;8;0.728096426;D;Malus taker
+Patric;Lazio;6.00044;5;1.200088024;D;Malus taker
+Gyomber;Salernitana;5.8272357;6;0.97120595;D;Malus taker
+Rogerio;Sassuolo;5.724664;6;0.954110702;D;Malus taker
+Demiral;Atalanta;6.0342255;8;0.754278183;D;Malus taker
+Zortea;Sassuolo;5.859353;3;1.953117688;D;Malus taker
+Vasquez;Cremonese;5.7293067;4;1.432326674;D;Malus taker
+Bradaric;Salernitana;5.839373;7;0.834196159;D;Malus taker
+Ehizibue;Udinese;5.8227468;5;1.164549351;D;Malus taker
+Thiaw;Milan;5.89839;10;0.589838982;D;Malus taker
+De Silvestri;Bologna;6.2963014;2;3.148150682;D;Malus taker
+Ceccherini;Verona;5.778808;4;1.444702029;D;Malus taker
+Ferrari G.;Sassuolo;5.71589;4;1.428972483;D;Malus taker
+Lykogiannis;Bologna;5.7281194;5;1.145623875;D;Malus taker
+Ranieri L.;Fiorentina;5.9613533;5;1.19227066;D;Malus taker
+Toljan;Sassuolo;5.91735;6;0.986224969;D;Malus taker
+Gallo;Lecce;6.0121098;5;1.202421951;D;Malus taker
+Bellanova;Inter;6.113412;8;0.764176488;D;Malus taker
+Soumaoro;Bologna;5.7866344;4;1.446658611;D;Malus taker
+Ismajli;Empoli;5.7328987;5;1.146579742;D;Malus taker
+Ballo-Toure';Milan;6.085057;2;3.042528391;D;Malus taker
+Amione;Sampdoria;5.860551;3;1.95351696;D;Malus taker
+Gatti;Juventus;5.858405;6;0.976400852;D;Malus taker
+Birindelli;Monza;5.841723;5;1.168344593;D;Malus taker
+Ebosele;Udinese;5.8510594;4;1.462764859;D;Malus taker
+Sambia;Salernitana;6.024802;4;1.506200552;D;Malus taker
+Lucumi';Bologna;6.1269917;7;0.875284536;D;Malus taker
+Palomino;Atalanta;5.911753;7;0.844536168;D;Malus taker
+Bonifazi;Bologna;6.0427165;3;2.014238834;D;Malus taker
+Lazzari;Lazio;6.011066;5;1.202213192;D;Malus taker
+Gunter;Sampdoria;5.756454;4;1.439113498;D;Malus taker
+Magnani;Verona;5.7537894;3;1.917929808;D;Malus taker
+Dawidowicz;Verona;5.8416743;4;1.460418582;D;Malus taker
+Celik;Roma;6.0309215;3;2.010307153;D;Malus taker
+Stojanovic;Empoli;5.9512615;3;1.98375384;D;Malus taker
+Daniliuc;Salernitana;5.7819967;3;1.927332242;D;Malus taker
+Rugani;Juventus;6.273501;3;2.091166973;D;Malus taker
+De Sciglio;Juventus;6.300008;3;2.100002607;D;Malus taker
+Alex Sandro;Juventus;5.914238;6;0.985706329;D;Malus taker
+Hateboer;Atalanta;5.9582324;7;0.851176058;D;Malus taker
+Venuti;Fiorentina;5.821733;4;1.455433249;D;Malus taker
+Kjaer;Milan;5.822479;4;1.455619693;D;Malus taker
+Pellegrini Lu.;Lazio;6.0415635;4;1.510390878;D;Malus taker
+Walukiewicz;Empoli;6.1357045;3;2.045234839;D;Malus taker
+Okoli;Atalanta;5.848912;2;2.924455881;D;Malus taker
+Lovato;Salernitana;5.898117;4;1.474529266;D;Malus taker
+Erlic;Sassuolo;6.0077634;5;1.201552677;D;Malus taker
+Coppola D.;Verona;5.9031444;2;2.95157218;D;Malus taker
+Cacace;Empoli;6.0116463;3;2.00388209;D;Malus taker
+Abankwah;Udinese;6.102532;1;6.10253191;D;Malus taker
+Guessand A.;Udinese;6.102532;1;6.10253191;D;Malus taker
+Cabal;Verona;5.8606033;3;1.953534444;D;Malus taker
+Dermaku;Lecce;6.1500316;1;6.150031567;D;Malus taker
+Tonelli;Empoli;6.0474677;1;6.047467709;D;Malus taker
+Pezzella Giu.;Lecce;5.929114;5;1.185822773;D;Malus taker
+Fazio;Salernitana;6.1894217;2;3.094710827;D;Malus taker
+Karsdorp;Roma;6.2627745;2;3.131387234;D;Malus taker
+Marchizza;Sassuolo;6.0260005;5;1.2052001;D;Malus taker
+Ruggeri;Atalanta;5.8053226;3;1.935107549;D;Malus taker
+Antov;Monza;5.819797;1;5.819797039;D;Malus taker
+Pongracic;Lecce;6.0194345;5;1.20388689;D;Malus taker
+Soppy;Atalanta;6.0549345;2;3.027467251;D;Malus taker
+Ruan;Sassuolo;5.5671277;5;1.113425541;D;Malus taker
+Ostigard;Napoli;6.0866303;4;1.521657586;D;Malus taker
+Gila;Lazio;6.214409;1;6.214408875;D;Malus taker
+Bronn;Salernitana;5.7345734;2;2.867286682;D;Malus taker
+Romagnoli S.;Lecce;6.106967;5;1.221393394;D;Malus taker
+Florenzi;Milan;6.10038;3;2.033459981;D;Malus taker
+Kumbulla;Roma;6.036051;3;2.012016932;D;Malus taker
+Adopo;Torino;5.910279;2;2.955139399;D;Malus taker
+Amey;Bologna;6.19519;1;6.195189953;D;Malus taker
+Zima;Torino;6.23713;3;2.079043388;D;Malus taker
+De Winter;Empoli;5.9073954;3;1.969131788;D;Malus taker
+Ebosse;Udinese;5.8118167;3;1.937272231;D;Malus taker
+Sosa;Bologna;5.75626;2;2.878129959;D;Malus taker
+Guarino;Empoli;6.19519;1;6.195189953;D;Malus taker
+Carboni F.;Monza;6.2064204;1;6.206420422;D;Malus taker
+Kvaratskhelia;Napoli;6.9149218;31;0.223061992;C;Bonus taker
+Zaccagni;Lazio;6.744917;28;0.24088989;C;Bonus taker
+Felipe Anderson;Lazio;6.6278014;23;0.288165279;C;Malus taker
+El Shaarawy;Roma;6.685357;16;0.417834818;C;Malus taker
+Rabiot;Juventus;6.6715126;22;0.303250573;C;Malus taker
+Luis Alberto;Lazio;7.070621;21;0.336696239;C;Bonus taker
+Orsolini;Bologna;6.5419683;21;0.311522302;C;Bonus taker
+Strefezza;Lecce;6.514543;18;0.361919059;C;Bonus taker
+Koopmeiners;Atalanta;6.855667;24;0.285652796;C;Bonus taker
+Barella;Inter;6.9378467;20;0.346892333;C;Malus taker
+Zielinski;Napoli;6.493857;20;0.324692845;C;Malus taker
+Candreva;Salernitana;6.8741274;15;0.458275159;C;Malus taker
+Frattesi;Sassuolo;6.7984543;17;0.399909076;C;Malus taker
+Miranchuk;Torino;6.6954403;10;0.669544029;C;Malus taker
+Ferguson;Bologna;6.6924343;17;0.393672607;C;Malus taker
+Ciurria;Monza;6.574407;14;0.469600507;C;Malus taker
+Lazovic;Verona;6.804721;15;0.453648059;C;Malus taker
+Calhanoglu;Inter;6.759577;16;0.42247355;C;Malus taker
+Elmas;Napoli;6.812162;15;0.454144128;C;Malus taker
+Lovric;Udinese;6.5120144;15;0.434134293;C;Malus taker
+Zambo Anguissa;Napoli;6.304659;14;0.450332778;C;Malus taker
+Samardzic;Udinese;6.6318307;16;0.414489418;C;Malus taker
+Baldanzi;Empoli;6.3987117;15;0.426580779;C;Malus taker
+Bonaventura;Fiorentina;6.437383;14;0.459813084;C;Malus taker
+Pessina;Monza;6.517736;14;0.465552568;C;Bonus taker
+Kostic;Juventus;6.3236117;15;0.421574116;C;Malus taker
+Verdi;Verona;6.208273;8;0.776034117;C;Malus taker
+Chiesa;Juventus;6.5412;17;0.38477648;C;Malus taker
+Lobotka;Napoli;6.0345855;13;0.464198883;C;Malus taker
+Fagioli;Juventus;6.3110957;13;0.485468901;C;Malus taker
+Messias;Milan;6.38359;9;0.709287802;C;Malus taker
+Colpani;Monza;6.5625544;9;0.729172707;C;Malus taker
+Pellegrini Lo.;Roma;6.739251;16;0.421203196;C;Bonus taker
+Politano;Napoli;6.640651;14;0.47433223;C;Bonus taker
+Pasalic;Atalanta;6.513618;14;0.465258428;C;Malus taker
+Matic;Roma;6.36363;9;0.70706998;C;Malus taker
+Mkhitaryan;Inter;6.5315223;13;0.50242479;C;Malus taker
+Bennacer;Milan;6.2839847;10;0.628398466;C;Malus taker
+Ikone';Fiorentina;6.4665413;13;0.497426253;C;Malus taker
+Dominguez;Bologna;6.364668;12;0.530388991;C;Malus taker
+Radonjic;Torino;6.6541862;11;0.604926023;C;Malus taker
+Moro N.;Bologna;6.4391346;6;1.0731891;C;Malus taker
+De Roon;Atalanta;6.384726;11;0.580429641;C;Malus taker
+Saponara;Fiorentina;6.036211;11;0.548746456;C;Malus taker
+Pogba;Juventus;6.4309473;12;0.535912275;C;Malus taker
+Ilic;Torino;6.3610497;12;0.530087471;C;Malus taker
+Ricci S.;Torino;6.440822;13;0.495447856;C;Malus taker
+Coulibaly L.;Salernitana;6.2287817;8;0.778597713;C;Malus taker
+Matheus Henrique;Sassuolo;6.4332695;9;0.714807722;C;Malus taker
+Mandragora;Fiorentina;6.2488203;9;0.694313367;C;Malus taker
+Sensi;Monza;6.307834;7;0.901119164;C;Malus taker
+Barak;Fiorentina;6.3099236;12;0.525826971;C;Malus taker
+Locatelli;Juventus;6.2754126;12;0.522951047;C;Malus taker
+Kastanos;Salernitana;5.8978133;7;0.84254476;C;Malus taker
+Castrovilli;Fiorentina;6.2825108;10;0.628251076;C;Malus taker
+Rovella;Monza;5.9799476;5;1.195989513;C;Malus taker
+Saelemaekers;Milan;6.2651043;5;1.253020859;C;Malus taker
+Marin;Empoli;6.2015347;8;0.775191844;C;Malus taker
+Zalewski;Roma;6.192562;8;0.774070263;C;Malus taker
+Bajrami;Sassuolo;6.45358;13;0.496429223;C;Malus taker
+Hjulmand;Lecce;6.038356;10;0.603835583;C;Malus taker
+De Ketelaere;Milan;6.2968817;7;0.899554525;C;Malus taker
+Iling Junior;Juventus;6.363306;4;1.590826511;C;Malus taker
+Vecino;Lazio;6.0272975;6;1.004549583;C;Malus taker
+Maldini;Spezia;6.304316;5;1.260863209;C;Malus taker
+Bove;Roma;6.060636;5;1.212127209;C;Malus taker
+Thorstvedt;Sassuolo;6.1556015;6;1.025933584;C;Malus taker
+Cristante;Roma;6.004934;9;0.66721487;C;Malus taker
+Walace;Udinese;5.874234;7;0.839176314;C;Malus taker
+Schouten;Bologna;6.0790687;8;0.759883583;C;Malus taker
+Akpa Akpro;Empoli;5.864079;3;1.954693;C;Malus taker
+Harroui;Sassuolo;6.13201;4;1.533002496;C;Malus taker
+Blin;Lecce;6.0191045;6;1.00318408;C;Malus taker
+Cataldi;Lazio;6.031911;7;0.861701557;C;Malus taker
+Duncan;Fiorentina;6.026347;5;1.205269432;C;Malus taker
+Cuadrado;Juventus;6.192893;9;0.688099225;C;Malus taker
+Linetty;Torino;6.066554;5;1.213310814;C;Malus taker
+Sottil;Fiorentina;6.2659326;8;0.78324157;C;Malus taker
+Gyasi;Spezia;6.0071387;8;0.750892341;C;Malus taker
+Miretti;Juventus;6.0971503;5;1.219430065;C;Malus taker
+Gonzalez J.;Lecce;5.8252325;7;0.832176072;C;Malus taker
+Grassi;Empoli;6.0615287;5;1.212305737;C;Malus taker
+Krunic;Milan;5.9610376;6;0.993506273;C;Malus taker
+Haas;Empoli;6.11286;4;1.528215051;C;Malus taker
+Duda;Verona;6.0749574;6;1.012492895;C;Malus taker
+Gaetano;Napoli;6.317944;3;2.10598135;C;Malus taker
+Lopez M.;Sassuolo;5.9873333;8;0.748416662;C;Malus taker
+Tameze;Verona;5.992523;8;0.749065399;C;Malus taker
+Pobega;Milan;6.1821327;5;1.236426544;C;Malus taker
+Aebischer;Bologna;5.873232;5;1.174646378;C;Malus taker
+Bohinen;Salernitana;6.234092;4;1.558523059;C;Malus taker
+Terracciano F.;Verona;6.018829;3;2.00627629;C;Malus taker
+Marcos Antonio;Lazio;6.2119226;5;1.242384529;C;Malus taker
+Ranocchia F.;Monza;6.238672;5;1.247734356;C;Malus taker
+Benassi;Cremonese;6.1122093;1;6.11220932;C;Malus taker
+Machin;Monza;5.888117;5;1.177623367;C;Malus taker
+Vignato;Empoli;6.2580237;2;3.129011869;C;Malus taker
+Amrabat;Fiorentina;5.8777885;7;0.839684078;C;Malus taker
+Maleh;Lecce;5.9561715;5;1.191234303;C;Malus taker
+Basic;Lazio;6.032959;4;1.508239746;C;Malus taker
+Volpato;Roma;6.3614397;3;2.120479902;C;Malus taker
+Vignato S.;Monza;6.2945104;1;6.294510365;C;Malus taker
+Fazzini;Empoli;5.914812;6;0.985802015;C;Malus taker
+Nicolussi Caviglia;Salernitana;5.9749312;2;2.98746562;C;Malus taker
+Henderson L.;Empoli;6.057577;3;2.019192378;C;Malus taker
+Ceide;Sassuolo;6.173308;1;6.173307896;C;Malus taker
+Obiang;Sassuolo;5.9310923;3;1.977030754;C;Malus taker
+Pyyhtia;Bologna;6.328481;1;6.328481197;C;Malus taker
+Sulemana I.;Verona;5.9516554;3;1.983885129;C;Malus taker
+Gagliardini;Inter;6.0218196;6;1.003636599;C;Malus taker
+Valoti;Monza;6.27501;2;3.137505054;C;Malus taker
+Maggiore;Salernitana;6.1791973;3;2.059732437;C;Malus taker
+Asllani;Inter;6.1342216;4;1.533555388;C;Malus taker
+Sabiri;Sampdoria;6.0436;9;0.67151112;C;Bonus taker
+Zerbin;Napoli;6.003875;1;6.003874779;C;Malus taker
+Ilkhan;Sampdoria;6.099417;1;6.09941721;C;Malus taker
+Demme;Napoli;6.182472;1;6.182472229;C;Malus taker
+Urbanski;Bologna;6.205243;1;6.205243111;C;Malus taker
+Romero L.;Lazio;6.261408;4;1.565351963;C;Malus taker
+Pafundi;Udinese;6.233754;1;6.233754158;C;Malus taker
+Helgason;Lecce;6.1536317;1;6.153631687;C;Malus taker
+Adli;Milan;6.1619534;1;6.161953449;C;Malus taker
+Hrustic;Verona;6.1647563;3;2.054918766;C;Malus taker
+Degli Innocenti;Empoli;6.205243;1;6.205243111;C;Malus taker
+Carboni V.;Inter;6.205243;2;3.102621555;C;Malus taker
+Faticanti;Roma;6.205243;1;6.205243111;C;Malus taker
+Gineitis;Torino;6.0073075;1;6.007307529;C;Malus taker
+Osimhen;Napoli;7.6829596;43;0.178673478;A;Bonus taker
+Martinez L.;Inter;8.029483;37;0.21701305;A;Bonus taker
+Dybala;Roma;7.675918;30;0.255863937;A;Bonus taker
+Berardi;Sassuolo;7.6961517;30;0.256538391;A;Bonus taker
+Rafael Leao;Milan;7.563885;31;0.243996297;A;Bonus taker
+Lookman;Atalanta;7.832143;26;0.301236263;A;Bonus taker
+Dia;Salernitana;7.63554;26;0.293674616;A;Bonus taker
+Sanabria;Torino;7.294145;24;0.303922713;A;Bonus taker
+Immobile;Lazio;8.447115;32;0.263972342;A;Bonus taker
+Giroud;Milan;7.5724587;24;0.315519114;A;Bonus taker
+Arnautovic;Bologna;6.6552615;23;0.289359196;A;Bonus taker
+Vlahovic;Juventus;7.2381597;28;0.258505702;A;Bonus taker
+Cabral;Fiorentina;6.78758;21;0.323218096;A;Bonus taker
+Lauriente';Sassuolo;7.065639;21;0.336459001;A;Bonus taker
+Beto;Udinese;7.0049005;21;0.333566688;A;Malus taker
+Abraham;Roma;6.9968333;15;0.466455555;A;Malus taker
+Cambiaghi;Empoli;6.611667;12;0.550972263;A;Malus taker
+Milik;Juventus;6.7190356;18;0.373279757;A;Bonus taker
+Gonzalez N.;Fiorentina;6.2518196;15;0.416787974;A;Bonus taker
+Simeone;Napoli;6.512946;13;0.500995856;A;Malus taker
+Pedro;Lazio;6.304865;12;0.525405407;A;Malus taker
+Zapata D.;Atalanta;6.612648;19;0.348034106;A;Malus taker
+Ceesay;Lecce;6.8692274;13;0.528402108;A;Malus taker
+Mota;Monza;6.5584664;11;0.596224221;A;Malus taker
+Petagna;Monza;6.593828;13;0.507217554;A;Malus taker
+Caprari;Monza;6.8028817;14;0.485920123;A;Malus taker
+Karamoh;Torino;6.2165303;10;0.621653032;A;Malus taker
+Kouame';Fiorentina;6.4866347;9;0.720737192;A;Malus taker
+Deulofeu;Udinese;6.417555;14;0.458396775;A;Malus taker
+Barrow;Bologna;6.468674;14;0.462048156;A;Malus taker
+Lozano;Napoli;6.5424523;12;0.545204361;A;Malus taker
+Muriel;Atalanta;6.5664396;14;0.469031402;A;Malus taker
+Thauvin;Udinese;6.390468;11;0.580951647;A;Malus taker
+Caputo;Empoli;6.8882275;15;0.459215164;A;Bonus taker
+Jovic;Fiorentina;6.7429786;14;0.481641327;A;Bonus taker
+Zirkzee;Bologna;6.4000373;11;0.581821572;A;Malus taker
+Correa;Inter;6.563899;11;0.596718095;A;Malus taker
+Kean;Juventus;6.347683;11;0.577062087;A;Malus taker
+Brekalo;Fiorentina;6.465949;11;0.587813551;A;Malus taker
+Colombo;Lecce;6.6408515;10;0.66408515;A;Bonus taker
+Banda;Lecce;6.2400374;8;0.78000468;A;Malus taker
+Di Francesco F.;Lecce;6.1743035;8;0.771787941;A;Malus taker
+Raspadori;Napoli;6.3491416;10;0.63491416;A;Malus taker
+Bonazzoli;Salernitana;6.6414075;7;0.948772499;A;Malus taker
+Pinamonti;Sassuolo;6.6795945;13;0.513814963;A;Malus taker
+Success;Udinese;6.188251;7;0.88403586;A;Malus taker
+Solbakken;Roma;6.3934937;8;0.799186707;A;Malus taker
+Piccoli;Empoli;6.6274104;7;0.946772916;A;Malus taker
+Djuric;Verona;6.289654;9;0.69885042;A;Malus taker
+Botheim;Salernitana;6.278344;8;0.784793019;A;Malus taker
+Defrel;Sassuolo;6.215041;9;0.690560129;A;Malus taker
+Origi;Milan;6.46759;3;2.155863285;A;Malus taker
+Soule';Juventus;6.6154184;4;1.653854609;A;Malus taker
+Ngonge;Verona;6.432709;12;0.536059101;A;Malus taker
+Belotti;Roma;6.2860746;9;0.698452738;A;Malus taker
+Pellegri;Torino;6.4223995;8;0.80279994;A;Malus taker
+Shomurodov;Spezia;6.287025;13;0.483617306;A;Malus taker
+Kallon;Verona;6.425889;2;3.212944508;A;Malus taker
+Alvarez A.;Sassuolo;6.697274;5;1.339454842;A;Malus taker
+Lasagna;Verona;6.2314415;5;1.2462883;A;Malus taker
+Henry;Verona;6.1336446;12;0.511137048;A;Malus taker
+Seck;Torino;6.440186;3;2.146728675;A;Malus taker
+Valencia D.;Salernitana;6.249047;1;6.249046803;A;Malus taker
+Braaf;Verona;6.143935;1;6.143935204;A;Malus taker
+Raimondo;Bologna;6.2940793;1;6.294079304;A;Malus taker
+Cancellieri;Lazio;6.1772065;5;1.235441303;A;Malus taker
+Voelkerling Persson;Lecce;6.4406753;1;6.440675259;A;Malus taker
+Vivaldo;Udinese;6.373566;1;6.373566151;A;Malus taker
