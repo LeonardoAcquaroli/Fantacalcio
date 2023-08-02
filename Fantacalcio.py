@@ -100,10 +100,10 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
                     df = df.loc[df[column].between(start_date, end_date)]
             else:
                 user_text_input = right.text_input(
-                    f"Testo o regex in {column}",
+                    f"Cerca in {column}",
                 )
                 if user_text_input:
-                    df = df[df[column].str.contains(user_text_input)]
+                    df = df[df[column].str.contains(user_text_input, case=False)]
 
     return df
 
