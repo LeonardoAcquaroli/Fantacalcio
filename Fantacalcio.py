@@ -5,24 +5,14 @@
 
 
 # data manipulation
-from datetime import datetime, timedelta
-from dateutil.relativedelta import relativedelta
-import re
-import numpy as np
 import pandas as pd
 import warnings 
 pd.options.mode.chained_assignment = None
 warnings.filterwarnings('ignore')
 
-# files
-import os
-import pathlib
-
 # plotting
 import matplotlib.pyplot as plt
-import matplotlib.patches as patches
 import matplotlib.dates as mdates
-import seaborn as sns
 
 # web app
 import streamlit as st
@@ -32,27 +22,6 @@ from pandas.api.types import (
     is_numeric_dtype,
     is_object_dtype,
 )
-
-####################
-
-# Preprocessing
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import PolynomialFeatures
-# Clustering
-from sklearn.decomposition import PCA
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-# Prediction
-import statsmodels.api as sm
-from sklearn.metrics import mean_squared_error
-## models
-from sklearn.linear_model import LinearRegression # ols
-import xgboost as xgb
-from sklearn.tree import DecisionTreeRegressor
-## evaluation
-from sklearn.model_selection import cross_val_score, KFold
-from sklearn.base import BaseEstimator, RegressorMixin
 
 # In[ ]:
 st.title("Previsioni Fantacalcio 2023/24 ⚽")
