@@ -5,6 +5,7 @@
 
 
 # data manipulation
+from datetime import datetime
 import pandas as pd
 import warnings 
 pd.options.mode.chained_assignment = None
@@ -123,8 +124,9 @@ st.dataframe(filter_dataframe(new_pred_names))
 # # Graphical analysis
 st.write("## Analisi grafica")
 # In[ ]:
-# load df
-withQuotes = pd.read_csv(r"https://raw.githubusercontent.com/LeonardoAcquaroli/Fantacalcio/main/Dataframes/Dataframe%20con%20quote.csv", sep=";")
+
+withQuotes = pd.read_csv(r"https://raw.githubusercontent.com/LeonardoAcquaroli/Fantacalcio/main/Dataframes/Dataframe%20con%20quote.csv", sep=";") # load df
+withQuotes.Anno = withQuotes.Anno.apply(lambda x: datetime.strptime(x, '%m/%d/%Y').strftime('%Y')) # transform the date in Anno
 
 # Create variables user selection
 nome1 = st.selectbox("Giocatore 1", new_pred_names.Nome.unique(), index=8) # (use only the names of players for 2023/24) # start with Theo Hernaned [9]
