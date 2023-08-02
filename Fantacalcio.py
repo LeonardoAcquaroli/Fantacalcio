@@ -152,8 +152,6 @@ merged = merged.set_index('Anno')
 fig, ax = plt.subplots()
 ax.plot(merged.index, merged[nome1], label=nome1, marker = '.')
 ax.plot(merged.index, merged[nome2], label=nome2, marker = '.')
-date_form = mdates.DateFormatter("%Y") # Set x-axis tick formatter to display only the year
-ax.xaxis.set_major_formatter(date_form)
 ax.set_xlabel('Anno')
 ax.set_ylabel(metrica)
 #ax.set_ylim(bottom=min(withQuotes[metrica]), top=max(withQuotes[metrica]))
